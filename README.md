@@ -8,11 +8,15 @@ In the recent times government agencies and leaders are making an effort to make
 
 ## Datasets
 
-Each of the documents on the repository tries to outline the open data requirements for one particular office/ administrative unit of the government. Each of these documents can be treated both as an requirements and open standard outline for each of the data requirements.
+Each of the documents on the repository tries to outline the open data requirements for one particular office/ administrative unit of the government. Each of these documents has two parts, a requirements section which specifies the various datasets that should be made availiable by the administrative unit and an outline of the open standard that will be used to specify how the data should be formatted and distributed.
+
+## Primary Objective
+
+The primary objective of this repository is to form a public forum where citizens can collaborate and create a pool of guidelines. These guidelines can be used for developing software which increase the transparency of the government or those which publish data for public consumption.
 
 ## Philosophy 
 
-- Keep things simple, try to itemize everything and keep requirement and standard atomic without requiring references.
+- Keep things simple, try to itemize everything and keep requirements and standards atomic without requiring references.
 - Make branches and use 'markup' documents for all documentation.
 - Create issues to propose changes to documentation structure and style.
 - Keep in mind that all data should be easily consumable by computers.(be specific about metadata, markup , data depth and publishing models)
