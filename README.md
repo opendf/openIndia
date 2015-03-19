@@ -22,6 +22,16 @@ The primary objective of this repository is to form a public forum where citizen
 - Create issues to propose changes to documentation structure and style.
 - Keep in mind that all data should be easily consumable by computers.(be specific about metadata, markup , data depth and publishing models)
 
+## Getting Started (for new git/non technical users)
+
+1. Create a Github.com Account
+2. Login with your Account and click on the 'Fork' button on the top right corner. This creates a copy of the repository on your account which can then be modified by you.
+3. Make the appropriate changes on your copy of the repository:
+ - Create a file : Click on the '+' link in the 'openGov/+' to create a new file. You can copy the text in the 'Template' file on the repository to get the current format. Be sure to name your files with a .md extension.
+ - Edit a file : Click on the file you want to edit. Click on the edit button 'Small Pencil' for github.com to open the in built editor.
+ - Save Changes : Every edit/new file has to be commited to the repository. Commiting requires you to press the commit button and allows you to write a small description of the changes you have made as comments (github suggests placeholder comments by default).
+4. All the operations specified above are done on your copy of the repository. To push all the changes you make to the repository you need to create a 'Push' request which will inform the admins of this repository of the changes that are made and will allow the admin to add the changes made to be merged into the main repository.
+
 ## References
 
 Please be sure to refer References.md [openGov/References.md] to browse all the current references that are being used and feel free to add more references that are relevant to the project.
