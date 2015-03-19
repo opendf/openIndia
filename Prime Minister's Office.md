@@ -17,10 +17,10 @@ TBD
 
 ### Item Description 
 
-Item 1 - Daily Agenda
-Item 2 - Executive Summaries
-Item 3 - Executive Order
-Item 4 - Research/Document References 
+- Item 1 - Daily Agenda
+- Item 2 - Executive Summaries
+- Item 3 - Executive Order
+- Item 4 - Research/Document References 
 
 ### Item Definition 
 
