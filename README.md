@@ -23,6 +23,6 @@ The primary objective of this repository is to form a public forum where citizen
 
 ## References
 
-Please be sure to refer References.md[openGov/References.md] to browse all the current references that are being used and feel free to add more references that are relevant to the project.
+Please be sure to refer References.md[https://github.com/rkrishnasanka/openGov/References.md] to browse all the current references that are being used and feel free to add more references that are relevant to the project.
 
  
