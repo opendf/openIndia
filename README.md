@@ -20,3 +20,8 @@ The primary objective of this repository is to form a public forum where citizen
 - Make branches and use 'markup' documents for all documentation.
 - Create issues to propose changes to documentation structure and style.
 - Keep in mind that all data should be easily consumable by computers.(be specific about metadata, markup , data depth and publishing models)
+
+## References
+
+Please be sure to refer References.md to browse all the current references that are being used and feel free to add more references that are relevant to the project.
+ 
