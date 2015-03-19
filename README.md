@@ -16,6 +16,7 @@ The primary objective of this repository is to form a public forum where citizen
 
 ## Philosophy 
 
+- Keeping the entire process open ensuring that the change is the result of a community effort.
 - Keep things simple, try to itemize everything and keep requirements and standards atomic without requiring references.
 - Make branches and use 'markup' documents for all documentation.
 - Create issues to propose changes to documentation structure and style.
