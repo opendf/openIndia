@@ -32,6 +32,11 @@ The primary objective of this repository is to form a public forum where citizen
  - Save Changes : Every edit/new file has to be commited to the repository. Commiting requires you to press the commit button and allows you to write a small description of the changes you have made as comments (github suggests placeholder comments by default).
 4. All the operations specified above are done on your copy of the repository. To push all the changes you make to the repository you need to create a 'Push' request which will inform the admins of this repository of the changes that are made and will allow the admin to add the changes made to be merged into the main repository.
 
+## Tasks
+
+1. Create repository structure to include files for all different administrative units in government with the templates.
+2. Start itemizing all the requirements.
+
 ## References
 
 Please be sure to refer References.md [openGov/References.md] to browse all the current references that are being used and feel free to add more references that are relevant to the project.
