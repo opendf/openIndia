@@ -5,7 +5,7 @@ TBD
 
 ## Requirements
 
-1. Weekly Executive summaries made to the Home Ministry.
+1. Weekly Executive summaries made to the Finance Ministry.
  
 2.All research material and references and studies that go into making the executive summaries.
 
