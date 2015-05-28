@@ -9,3 +9,5 @@ These references are a part of the ongoing process to design this project. As th
 3. [Wikipedia list for the different ministries in India](http://en.wikipedia.org/wiki/Category:Government_ministries_of_India)
 
 4. [Open Data site for India](https://data.gov.in/)
+
+5. UCLA Paper that discusses various aspects of open government ["New Ambiguity in Open Government"](http://www.uclalawreview.org/pdf/discourse/59-11.pdf)
