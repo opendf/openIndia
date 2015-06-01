@@ -6,16 +6,16 @@ TBD
 ## Requirements
 
 1. Weekly Executive summaries made to the Home Ministry.
- 
+
 2.All research material and references and studies that go into making the executive summaries.
 
 3. Answers to Parliament by the Ministry
 
 4. Monthly Economic Reports, Quarterly Review of Finances, Annual Budget and other documents
 
-## Open Standard 
+## Open Standard
 
-### Item Description 
+### Item Description
 
 
     Item 1 -  Agenda
@@ -24,6 +24,6 @@ TBD
     Item 4 - Research/Document References
 
 
-### Item Definition 
+### Item Definition
 
 TBD
